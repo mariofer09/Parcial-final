@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01-ago-2018, 14:03:57
+    Author     : toshiba
+*/
+
+#cabecera{ 
+font-size: 48px;
+font-family: Broadway;
+color:#cc3f35;
+text-align: center;
+
+
+}
+
+ul li {
+    list-style-type: none;
+    background: #cc3f35;
+   display: inline;
+   font-size: 20px;
+   font-family: Broadway;
+   padding: 10px;
+   border-radius: 2px;
+}
+#menu{
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+}
+
+#cuerpo{
+    text-align:  center;
+    font-size: 18px;
+}
+
+#pie{
+    text-align: center;
+    background:#cc3f35; 
+    padding: 10px;
+    margin-top: 5px;
+}
+form{
+    width:700px;
+    background:#cc3f35;
+    padding:5px;
+    margin:1em auto;
+    border:2px solid black;
+}
+form div{ 
+    margin-top: 1em;
+   
+}
+
+label{ 
+display: inline-block;
+width: 150px;
+text-align: left;
+}
+
+
+input,textArea{
+    width: 300px;
+    font-family: Arial;
+    font-size: 12px;
+    
+    
+}
+textArea{
+    vertical-align: middle;
+}
+h1{
+    font-family: bazooka;
+    font-size: 16px;
+    text-align:center;
+    color: #5f42f4;
+}
+
+#block_1
+	{
+	float: left;
+	width: 65%;
+	margin-left: 25%;
+	}
+* html #block_1
+	{
+	display: inline;
+	}
+#block_2
+	{
+	float: left;
+	width: 25%;
+	margin-left: -90%;
+	}
+
+
